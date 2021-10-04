@@ -1,7 +1,6 @@
 /* Aligning the title center, making it bigger, and giving the title a color. */
 .title {
   font-size: 60px;
-  /* color: #57CC99 */
   color: red;
 }
 
