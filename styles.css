@@ -1,7 +1,7 @@
 /* Aligning the title center, making it bigger, and giving the title a color. */
 .title {
   font-size: 60px;
-  color: #E6E6E6
+  color: #57CC99
 }
 
 /* Creating a background image that fits the size of the page. */
@@ -14,10 +14,12 @@ body {
   line-height: 2.5;
 }
 
+/* Moving the bullet point to the center. */
 li {
   list-style-position: inside;
 }
 
+/* Changing the image to make it smaller and circular. */
 img {
   width: 100px;
   padding: 5px;
@@ -34,6 +36,14 @@ hr {
 /* Adding font for title. */
 h1 {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: blue;
 }
 
 /* Adding psedo code with fonts for non titles. */
