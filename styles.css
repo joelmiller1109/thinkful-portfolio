@@ -1,7 +1,8 @@
 /* Aligning the title center, making it bigger, and giving the title a color. */
 .title {
   font-size: 60px;
-  color: #57CC99
+  /* color: #57CC99 */
+  color: red;
 }
 
 /* Creating a background image that fits the size of the page. */
